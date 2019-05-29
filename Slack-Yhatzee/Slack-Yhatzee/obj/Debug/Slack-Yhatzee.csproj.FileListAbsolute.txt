@@ -1,0 +1,10 @@
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\bin\Debug\Slack-Yhatzee.exe.config
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\bin\Debug\Slack-Yhatzee.exe
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\bin\Debug\Slack-Yhatzee.pdb
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack-Yhatzee.csprojAssemblyReference.cache
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack_Yhatzee.Form1.resources
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack_Yhatzee.Properties.Resources.resources
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack-Yhatzee.csproj.GenerateResource.cache
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack-Yhatzee.csproj.CoreCompileInputs.cache
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack-Yhatzee.exe
+C:\Users\joey_\source\repos\Slack-Yhatzee\Slack-Yhatzee\obj\Debug\Slack-Yhatzee.pdb
